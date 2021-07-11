@@ -1,0 +1,108 @@
+.page1{
+ 
+ 
+}
+.page11{
+    height: 750px;
+    background-image: url("D:/my web projects/thumb-1920-691496.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    font-family: 'Sigmar One', cursive;
+    line-height: 2;
+    font-size: 40px;
+    color: white;
+    
+}
+.page111{
+    height: 750px;
+    width: 50%;
+}
+.bac{
+    background-image: url("D:/my web projects/7061341.png");
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+.myplan{
+    padding: 5px 0px;
+    font-weight: 1000;
+    color: #185adb;
+}
+.ADD{
+    background-color: #f21170;
+    width: 120px;
+    border-radius: 50px;
+    border: none;
+    margin: 4% 0%;
+    padding: 1%;
+    font-weight: bold;
+}
+.page22{
+
+    height: 750px;
+    width: 50%;
+}
+.myplan1{
+    margin: 3% 1%;
+    padding: 5px 0px;
+    font-weight: 1000;
+    color: #185adb;
+}
+.page222{
+    height: 750px;
+    width: 50%;
+    background-color: #ffc947;
+}
+.page33{
+    height: 750px;
+    width: 50%;
+    background-color: #185adb;
+}
+.page333{
+    height: 750px;
+    width: 50%;
+}
+input.searchbox{
+    background-color: #ffc947;
+    color: hsl(220, 80%, 48%);
+    font-weight: 800;
+}
+.page112{
+    text-align: center;
+    font-size: 70px;
+    color:hsl(220, 80%, 48%);
+    font-weight: 1000;
+    padding: 200px 70px;
+}
+.page113{
+    text-align: center;
+    font-size: 70px;
+    color: #ffc947;
+    font-weight: 1000;
+    padding: 200px 70px;
+}
+.cent{
+    padding: 180px 70px;
+}
+.cent1{
+    padding: 275px 70px;
+
+}
+.edit-Button{
+    font-size: 1.2rem;
+    margin: 0 1rem;
+    background: none;
+    outline: none;
+    color: #ef4f4f;
+    border: none;
+    cursor: pointer;
+  }
+  .remove-button{
+    font-size: 1.2rem;
+    background: none;
+    outline: none;
+    color: #ffcda3;
+    border: none;
+    cursor: pointer;
+  }
